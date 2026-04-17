@@ -7,10 +7,7 @@ let vidas = 3;
 // Dicas e mensagens motivacionais infantis
 let dicasMatematica = [
   "Oops! Quase lá. O leãozinho sabe que você consegue na próxima!",
-  "Dica do Leão: Na multiplicação e divisão - Sinais iguais = Positivo (+). Sinais diferentes = Negativo (-).",
-  "O sinal de MENOS (-) antes dos parênteses muda TODOS os sinais lá dentro!",
-  "Lembre-se: O 'chuveirinho' espalha a conta para todo mundo lá dentro!",
-  "Atenção aos superpoderes do x! Um 'x' vezes outro 'x' vira x².",
+  "Dica do Leão: Leãozinho confia em você, continue praticando!
 
 ];
 let dicaAtual = "";
