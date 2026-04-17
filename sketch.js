@@ -8,7 +8,6 @@ let vidas = 3;
 let dicasMatematica = [
   "Oops! Quase lá. O leãozinho sabe que você consegue na próxima!",
   "Dica do Leão: Leãozinho confia em você, continue praticando!
-
 ];
 let dicaAtual = "";
 
