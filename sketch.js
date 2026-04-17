@@ -7,7 +7,7 @@ let vidas = 3;
 // Dicas e mensagens motivacionais infantis
 let dicasMatematica = [
   "Oops! Quase lá. O leãozinho sabe que você consegue na próxima!",
-  "Leãozinho confia em você, continue praticando!" 
+  "DICA DO LEÃO: Leãozinho confia em você, continue praticando!" 
 ];
 let dicaAtual = "";
 
